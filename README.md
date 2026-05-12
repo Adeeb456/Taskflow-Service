@@ -1,4 +1,4 @@
-M# TaskFlow Service
+# TaskFlow Service
 
 A production-style Task Management application built using Java Spring Boot.
 
@@ -115,13 +115,15 @@ http://localhost:8080/index.html
 ```
 A landing page as shown below will appear:
 
-<img width="1911" height="812" alt="image" src="https://github.com/user-attachments/assets/3c0cfe26-99d0-4d50-aab5-5766b9451004" />
+<img width="1907" height="815" alt="image" src="https://github.com/user-attachments/assets/922ffd20-8c80-454e-bdff-de01621e1fc7" />
+
 
 
 Click on "Start Managing Tasks" button to see the task interface.
 Task interface as shown below will appear:
 
-<img width="1888" height="812" alt="image" src="https://github.com/user-attachments/assets/35b75934-af8e-4345-9fec-78536799a841" />
+<img width="1881" height="817" alt="image" src="https://github.com/user-attachments/assets/d6ce2169-d395-4f67-9335-fe13a92ef512" />
+
 
 
 
@@ -140,7 +142,8 @@ Username: admin
 Password: admin
 ```
 
-<img width="475" height="375" alt="image" src="https://github.com/user-attachments/assets/a04df084-a741-418e-aa65-1a3ce823bc91" />
+<img width="465" height="365" alt="image" src="https://github.com/user-attachments/assets/89d1e80e-3a5b-4ec7-8f1b-248c0bb476d0" />
+
 
 
 
@@ -156,12 +159,14 @@ http://localhost:8080/h2-console
 
 Just click on connect, any password is not required.
 
-<img width="1418" height="791" alt="image" src="https://github.com/user-attachments/assets/e95f53ec-edc3-4247-8366-2fa725d5b3dc" />
+<img width="1199" height="743" alt="image" src="https://github.com/user-attachments/assets/cb4e01ba-8673-49e5-9ddb-2ed6cb34ef30" />
+
 
 
 H2-DB console will show all schemas and related queries as shown below:
 
-<img width="1892" height="743" alt="image" src="https://github.com/user-attachments/assets/ba53696b-3361-4fc5-bdd4-aa871f50faf3" />
+<img width="1894" height="694" alt="image" src="https://github.com/user-attachments/assets/98f381c9-8184-48b6-bd8f-feab03b46632" />
+
 
 
 
